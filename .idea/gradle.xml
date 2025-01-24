@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../../../insurance-platform" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/../../../insurance-platform" />
+            <option value="$PROJECT_DIR$/../../../insurance-platform/api-gateway" />
+            <option value="$PROJECT_DIR$/../../../insurance-platform/claims-service" />
+            <option value="$PROJECT_DIR$/../../../insurance-platform/customer-service" />
+            <option value="$PROJECT_DIR$/../../../insurance-platform/notification-service" />
+            <option value="$PROJECT_DIR$/../../../insurance-platform/payment-service" />
+            <option value="$PROJECT_DIR$/../../../insurance-platform/policy-service" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
